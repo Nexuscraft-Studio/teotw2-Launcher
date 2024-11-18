@@ -1,7 +1,7 @@
 {
     "name": "teotw-Launcher",
     "preductname": "TeoTw Launcher",
-    "version": "3.1.3",
+    "version": "3.1.5",
     "description": "Launcher Mincraft pour le serveur The end of the world",
     "main": "src/app.js",
     "author": {
